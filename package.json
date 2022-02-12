@@ -10,7 +10,7 @@
     "dev-server": "webpack-dev-server"
   },
   "dependencies": {
-    "ajv": "^5.5.2",
+    "ajv": "^6.12.3",
     "babel-cli": "6.24.1",
     "babel-core": "6.25.0",
     "babel-loader": "7.1.1",
